@@ -1,0 +1,23 @@
+body {
+    /* 背景色 */
+    background: rgb(185, 159, 7);
+}
+.container{
+    background: rgb(213, 217, 218);
+}
+h1{
+    /* 文字顏色 */
+    color: rgb(245, 17, 226);
+    /* 文字大小 */
+    font-size: 24px;
+}
+.carousel-item img{
+    height: 800px;
+    object-fit: cover;
+}
+footer{
+    color: rgb(243, 242, 242);
+    height: 100px;
+    line-height: 100px;
+    background: rgba(71, 5, 226, 0.596);
+}
